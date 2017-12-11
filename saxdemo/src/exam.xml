@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<exam>
+	<Student>
+		<name>张三</name>
+		<location>成都</location>
+		<grade>66</grade>
+	</Student>
+
+	<Student>
+		<name>王麻子</name>
+		<location>北京</location>
+		<grade>87</grade>
+	</Student>
+
+
+
+	<Student>
+		<grade>88.0</grade>
+		<location>北京</location>
+		<name>小王</name>
+	</Student>
+</exam>
